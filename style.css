@@ -33,9 +33,9 @@ body{
     height: 100vh;
 }
 .container{
-    width: 50%;
+    width: 70%;
     border-radius: 10px;
-    margin: 10% auto;
+    margin: 8% auto;
     background-color: var( --white);
     padding: 3%;
     display: flex;
